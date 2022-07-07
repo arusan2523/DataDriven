@@ -37,6 +37,13 @@ public class AddCustomerTest extends TestBase {
 		Thread.sleep(2000);
 		
 	}
+	@Test
+	public void test2(){
+
+		System.out.println("test method");
+
+
+	}
 	
 	
 
