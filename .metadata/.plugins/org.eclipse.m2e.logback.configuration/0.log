@@ -1,0 +1,10 @@
+2022-05-13 21:31:32,398 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-05-16 13:37:12,887 [Worker-46: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.api.automation:karateframework:0.0.1-SNAPSHOT @ D:\KarateFramework\KarateFrameworkTutorial-main (1)\KarateFrameworkTutorial-main\pom.xml.
+2022-05-16 13:37:14,610 [Worker-46: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /karateframework/src/main/java
+2022-05-16 13:37:14,613 [Worker-46: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /karateframework/src/test/java
+2022-05-16 13:37:14,615 [Worker-46: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /karateframework/src/test/java overlaps with sources folder /karateframework/src/test/java
+2022-05-16 13:37:15,332 [Worker-46: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 9 sec
+2022-05-16 13:37:25,337 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-16 13:37:25,338 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\KarateFramework\KarateFrameworkTutorial-main (1)\KarateFrameworkTutorial-main\src\main\resources
+2022-05-16 13:37:25,340 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-05-16 13:37:25,350 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 48 resources

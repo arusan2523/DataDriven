@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="runner">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/test-classes/runner.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
