@@ -55,7 +55,7 @@ public class TestBase {
 	public void setUp() {
 
 		if (driver == null) {
-			
+			//called when no driver is unaviable
 			PropertyConfigurator.configure(System.getProperty("user.dir") + "\\src\\test\\resources\\properties\\log4j.properties");
 
 			try {
